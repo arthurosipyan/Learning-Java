@@ -18,8 +18,8 @@ public class Q2 {
 
         Iterator studentsIterator = students.entrySet().iterator();
 
-        for(int i = 0; i < arr.length; i++){
-            System.out.println(arr[i]);
+        for (int j : arr) {
+            System.out.println(j);
         }
 
         // Map.Entry mapElement = (Map.Entry)hmIterator.next();
