@@ -1,4 +1,4 @@
-package EqualSumChecker;
+package UdemyJavaProgrammingMasterclass.Section4.EqualSumChecker;
 
 public class EqualSumChecker {
 

@@ -1,4 +1,4 @@
-package MinutesToYearsAndDaysCalculator;
+package UdemyJavaProgrammingMasterclass.Section4.MinutesToYearsAndDaysCalculator;
 
 public class MinutesToYearsDaysCalculator {
 

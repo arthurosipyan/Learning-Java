@@ -1,4 +1,4 @@
-package DecimalComparator;
+package UdemyJavaProgrammingMasterclass.Section4.DecimalComparator;
 
 public class DecimalComparator{
 

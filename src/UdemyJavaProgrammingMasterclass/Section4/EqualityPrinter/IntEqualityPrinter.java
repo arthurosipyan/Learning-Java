@@ -1,4 +1,4 @@
-package EqualityPrinter;
+package UdemyJavaProgrammingMasterclass.Section4.EqualityPrinter;
 
 public class IntEqualityPrinter {
     public static void printEqual(int x, int y, int z){

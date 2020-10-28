@@ -1,4 +1,4 @@
-package AreaCalculator;
+package UdemyJavaProgrammingMasterclass.Section4.AreaCalculator;
 
 public class AreaCalculator {
     public static double area(double radius){

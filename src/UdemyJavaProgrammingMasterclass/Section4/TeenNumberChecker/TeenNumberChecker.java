@@ -1,4 +1,4 @@
-package TeenNumberChecker;
+package UdemyJavaProgrammingMasterclass.Section4.TeenNumberChecker;
 
 public class TeenNumberChecker {
 

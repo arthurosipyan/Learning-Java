@@ -1,4 +1,4 @@
-package BarkingDog;
+package UdemyJavaProgrammingMasterclass.Section4.BarkingDog;
 
 public class BarkingDog {
 

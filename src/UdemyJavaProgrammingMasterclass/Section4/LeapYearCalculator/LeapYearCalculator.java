@@ -1,4 +1,4 @@
-package LeapYearCalculator;
+package UdemyJavaProgrammingMasterclass.Section4.LeapYearCalculator;
 
 public class LeapYearCalculator {
 

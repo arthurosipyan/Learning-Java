@@ -1,4 +1,4 @@
-package PlayingCat;
+package UdemyJavaProgrammingMasterclass.Section4.PlayingCat;
 
 public class PlayingCat {
     public static boolean isCatPlaying(boolean summer, int temperature){
