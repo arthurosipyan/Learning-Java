@@ -17,11 +17,11 @@ public class SumOddRange {
     }
 
     public static void main(String[] args) {
-        sumOdd(1, 100);
-        sumOdd(-1, 100);
-        sumOdd(100, 100);
-        sumOdd(13, 13);
-        sumOdd(100, -100);
-        sumOdd(100, 1000);
+        System.out.println(sumOdd(1, 100));
+        System.out.println(sumOdd(-1, 100));
+        System.out.println(sumOdd(100, 100));
+        System.out.println(sumOdd(13, 13));
+        System.out.println(sumOdd(100, -100));
+        System.out.println(sumOdd(100, 1000));
     }
 }
